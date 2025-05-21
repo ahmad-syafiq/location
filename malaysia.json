@@ -1,79 +1,78 @@
 [
-  {
-    "Johor": [
-      {
-        "Batu Pahat": [
-          "Mukim Bagan",
-          "Mukim Chaah Bahru",
-          "Mukim Kampung Bahru",
-          "Mukim Linau",
-          "Mukim Lubok",
-          "Mukim Minyak Beku",
-          "Mukim Peserai",
-          "Mukim Sri Gading",
-          "Mukim Sri Medan",
-          "Mukim Simpang Kanan",
-          "Mukim Simpang Kiri",
-          "Mukim Sungai Kluang",
-          "Mukim Sungai Punggor",
-          "Mukim Tanjung Sembrong",
-          "Bandar Ayer Hitam",
-          "Bandar Bandar Penggaram",
-          "Bandar Rengit",
-          "Bandar Senggarang",
-          "Bandar Yong Peng"
-        ]
-      },
-      {
-        "Johor Bahru": [
-          "Mukim Jelutong",
-          "Mukim Plentong",
-          "Mukim Pulai",
-          "Mukim Sungai Tiram",
-          "Mukim Tanjung Kupang",
-          "Mukim Tebrau",
-          "Bandar Johor Bahru",
-          "Bandar Tebrau",
-
-        ]
-      },
-      {
-        "Kluang": [
-          "Mukim Ulu Benut",
-          "Mukim Kahang",
-          "Mukim Kluang",
-          "Mukim Layang-Layang",
-          "Mukim Machap",
-          "Mukim Niyor",
-          "Mukim Renggam",
-          "Bandar Kluang",
-          "Bandar Paloh",
-          "Bandar Rengam"
-        ]
-      },
-      {
-        "Kota Tinggi": [
-          "Mukim Ulu Sungai Johor",
-          "Mukim Ulu Sungei Sedili Besar",
-          "Mukim Johor Lama",
-          "Mukim Kambau",
-          "Mukim Kota Tinggi",
-          "Mukim Pantai Timur",
-          "Mukim Pengerang",
-          "Mukim Sedili Besar",
-          "Mukim Sedili Kechil",
-          "Mukim Tanjung Surat",
-          "Bandar Kota Tinggi"
-        ]
-      },
-      {
-        "Mersing": [
-          "Mukim Jemaluang",
-          "Mukim Lenggor",
-          "Mukim Mersing",
-          "Mukim Padang Endau",
-          "Mukim Penyabong",
-          "Mukim Pulau Aur",
+	{
+		"Johor": [
+			{
+				"Batu Pahat": [
+					"Mukim Bagan",
+					"Mukim Chaah Bahru",
+					"Mukim Kampung Bahru",
+					"Mukim Linau",
+					"Mukim Lubok",
+					"Mukim Minyak Beku",
+					"Mukim Peserai",
+					"Mukim Sri Gading",
+					"Mukim Sri Medan",
+					"Mukim Simpang Kanan",
+					"Mukim Simpang Kiri",
+					"Mukim Sungai Kluang",
+					"Mukim Sungai Punggor",
+					"Mukim Tanjung Sembrong",
+					"Bandar Ayer Hitam",
+					"Bandar Bandar Penggaram",
+					"Bandar Rengit",
+					"Bandar Senggarang",
+					"Bandar Yong Peng"
+				]
+			},
+			{
+				"Johor Bahru": [
+					"Mukim Jelutong",
+					"Mukim Plentong",
+					"Mukim Pulai",
+					"Mukim Sungai Tiram",
+					"Mukim Tanjung Kupang",
+					"Mukim Tebrau",
+					"Bandar Johor Bahru",
+					"Bandar Tebrau"
+				]
+			},
+			{
+				"Kluang": [
+					"Mukim Ulu Benut",
+					"Mukim Kahang",
+					"Mukim Kluang",
+					"Mukim Layang-Layang",
+					"Mukim Machap",
+					"Mukim Niyor",
+					"Mukim Renggam",
+					"Bandar Kluang",
+					"Bandar Paloh",
+					"Bandar Rengam"
+				]
+			},
+			{
+				"Kota Tinggi": [
+					"Mukim Ulu Sungai Johor",
+					"Mukim Ulu Sungei Sedili Besar",
+					"Mukim Johor Lama",
+					"Mukim Kambau",
+					"Mukim Kota Tinggi",
+					"Mukim Pantai Timur",
+					"Mukim Pengerang",
+					"Mukim Sedili Besar",
+					"Mukim Sedili Kechil",
+					"Mukim Tanjung Surat",
+					"Bandar Kota Tinggi"
+				]
+			},
+			{
+				"Mersing": [
+					"Mukim Jemaluang",
+					"Mukim Lenggor",
+					"Mukim Mersing",
+					"Mukim Padang Endau",
+					"Mukim Penyabong",
+					"Mukim Pulau Aur",
 					"Mukim Pulau Babi",
 					"Mukim Pulau Pemanggil",
 					"Mukim Pulau Sibu",
@@ -86,32 +85,32 @@
 					"Bandar Mersing",
 					"Bandar Mersing Kanan",
 					"Bandar Padang Endau",
-        ]
-      },
-      {
-        "Muar": [
-          "Mukim Ayer Hitam",
-          "Mukim Bandar",
-          "Mukim Bukit Kepong",
-          "Mukim Jalan Bakri",
-          "Mukim Jorak",
-          "Mukim Lenga",
-          "Mukim Parit Bakar",
-          "Mukim Parit Jawa",
-          "Mukim Sri Menanti",
-          "Mukim Sungai Balang",
-          "Mukim Sungai Raya",
-          "Mukim Sungai Terap",
-          "Bandar Bandar Maharani",
-          "Bandar Bukit Kepong",
-          "Bandar Panchor",
-          "Bandar Parit Jawa",
-          "Pekan Bukit Pasir",
-        ]
-      },
-      {
-        "Pontian": [
-          "Mukim Ayer Baloi",
+				]
+			},
+			{
+				"Muar": [
+					"Mukim Ayer Hitam",
+					"Mukim Bandar",
+					"Mukim Bukit Kepong",
+					"Mukim Jalan Bakri",
+					"Mukim Jorak",
+					"Mukim Lenga",
+					"Mukim Parit Bakar",
+					"Mukim Parit Jawa",
+					"Mukim Sri Menanti",
+					"Mukim Sungai Balang",
+					"Mukim Sungai Raya",
+					"Mukim Sungai Terap",
+					"Bandar Bandar Maharani",
+					"Bandar Bukit Kepong",
+					"Bandar Panchor",
+					"Bandar Parit Jawa",
+					"Pekan Bukit Pasir",
+				]
+			},
+			{
+				"Pontian": [
+					"Mukim Ayer Baloi",
 					"Mukim Air Masin",
 					"Mukim Api-Api",
 					"Mukim Benut",
@@ -125,11 +124,11 @@
 					"Bandar Benut",
 					"Bandar Pontian Kechil",
 					"Pekan Pekan Nenas",
-        ]
-      },
-      {
-        "Segamat": [
-          "Mukim Bekok",
+				]
+			},
+			{
+				"Segamat": [
+					"Mukim Bekok",
 					"Mukim Buloh Kasap",
 					"Mukim Chaah",
 					"Mukim Gemas",
@@ -147,34 +146,34 @@
 					"Bandar Labis",
 					"Bandar Segamat",
 					"Pekan Gemas Bahru",
-        ]
-      },
-      {
-        "Kulai": [
-          "Mukim Kulai",
-          "Mukim Senai",
-          "Mukim Sedenak",
-          "Mukim Bukit Batu",
-          "Bandar Kulai"
-        ]
-      },
-      {
-        "Tangkak": [
-          "Mukim Tangkak",
-          "Mukim Bukit Serampang",
-          "Mukim Grisek",
-          "Mukim Serom",
-          "Mukim Kundang",
-          "Mukim Kesang",
-          "Bandar Bukit Kangkar",
-          "Bandar Parit Bunga",
-          "Bandar Serom",
-          "Bandar Sungai Mati",
-          "Bandar Tangkak",
-          "Pekan Grisek"
-        ]
-      }
-    ],
+				]
+			},
+			{
+				"Kulai": [
+					"Mukim Kulai",
+					"Mukim Senai",
+					"Mukim Sedenak",
+					"Mukim Bukit Batu",
+					"Bandar Kulai"
+				]
+			},
+			{
+				"Tangkak": [
+					"Mukim Tangkak",
+					"Mukim Bukit Serampang",
+					"Mukim Grisek",
+					"Mukim Serom",
+					"Mukim Kundang",
+					"Mukim Kesang",
+					"Bandar Bukit Kangkar",
+					"Bandar Parit Bunga",
+					"Bandar Serom",
+					"Bandar Sungai Mati",
+					"Bandar Tangkak",
+					"Pekan Grisek"
+				]
+			}
+		],
 		"Kedah": [
 			{
 				"Baling": [
@@ -409,10 +408,28 @@
 				]
 			},
 			{
-				"Pendang"
+				"Pendang": [
+					"Mukim Air Puteh",
+					"Mukim Bukit Raya",
+					"Mukim Guar Kepayang",
+					"Mukim Padang Kerbau",
+					"Mukim Padang Peliang",
+					"Mukim Padang Pusing",
+					"Mukim Rambai",
+					"Mukim Tobiar",
+					"Bandar Pendang"
+				]
 			},
 			{
-				"Pokok Sena"
+				"Pokok Sena": [
+					"Mukim Bukit Lada",
+					"Mukim Derang",
+					"Mukim Gajah Mati",
+					"Mukim Jabi",
+					"Mukim Lesong",
+					"Mukim Tualang",
+					"Bandar Pokok Sena"
+				]
 			},
 		],
 		"Kelantan": [
@@ -484,7 +501,7 @@
 				]
 			},
 			{
-				"Tanah Merah"
+				"Tanah Merah": []
 			},
 			{
 				"Tumpat": [
@@ -880,28 +897,28 @@
 				]
 			},
 			{
-				"Kuantan"
+				"Kuantan": []
 			},
 			{
-				"Lipis"
+				"Lipis": []
 			},
 			{
-				"Pekan"
+				"Pekan": []
 			},
 			{
-				"Raub"
+				"Raub": []
 			},
 			{
-				"Temerloh"
+				"Temerloh": []
 			},
 			{
-				"Rompin"
+				"Rompin": []
 			},
 			{
-				"Maran"
+				"Maran": []
 			},
 			{
-				"Bera"
+				"Bera": []
 			},
 		],
 		"Pulau Pinang": [
@@ -1704,207 +1721,207 @@
 		],
 		"Sabah": [
 			{
-				"Tawau"
+				"Tawau": []
 			},
 			{
-				"Lahad Datu"
+				"Lahad Datu": []
 			},
 			{
-				"Semporna"
+				"Semporna": []
 			},
 			{
-				"Sandakan"
+				"Sandakan": []
 			},
 			{
-				"Kinabatangan"
+				"Kinabatangan": []
 			},
 			{
-				"Beluran"
+				"Beluran": []
 			},
 			{
-				"Kota Kinabalu"
+				"Kota Kinabalu": []
 			},
 			{
-				"Ranau"
+				"Ranau": []
 			},
 			{
-				"Kota Belud"
+				"Kota Belud": []
 			},
 			{
-				"Tuaran"
+				"Tuaran": []
 			},
 			{
-				"Penampang"
+				"Penampang": []
 			},
 			{
-				"Papar"
+				"Papar": []
 			},
 			{
-				"Kudat"
+				"Kudat": []
 			},
 			{
-				"Kota Marudu"
+				"Kota Marudu": []
 			},
 			{
-				"Pitas"
+				"Pitas": []
 			},
 			{
-				"Beaufort"
+				"Beaufort": []
 			},
 			{
-				"Kuala Penyu"
+				"Kuala Penyu": []
 			},
 			{
-				"Sipitang"
+				"Sipitang": []
 			},
 			{
-				"Tenom"
+				"Tenom": []
 			},
 			{
-				"Nabawan"
+				"Nabawan": []
 			},
 			{
-				"Keningau"
+				"Keningau": []
 			},
 			{
-				"Tambunan"
+				"Tambunan": []
 			},
 			{
-				"Kunak"
+				"Kunak": []
 			},
 			{
-				"Tongod"
+				"Tongod": []
 			},
 			{
-				"Putatan"
+				"Putatan": []
 			},
 			{
-				"Telupid"
+				"Telupid": []
 			},
 			{
-				"Kalabakan"
+				"Kalabakan": []
 			},
 		],
 		"Sarawak": [
 			{
-				"Kuching"
+				"Kuching": []
 			},
 			{
-				"Bau"
+				"Bau": []
 			},
 			{
-				"Lundu"
+				"Lundu": []
 			},
 			{
-				"Samarahan"
+				"Samarahan": []
 			},
 			{
-				"Serian"
+				"Serian": []
 			},
 			{
-				"Simunjan"
+				"Simunjan": []
 			},
 			{
-				"Sri Aman"
+				"Sri Aman": []
 			},
 			{
-				"Lubok Antu"
+				"Lubok Antu": []
 			},
 			{
-				"Betong"
+				"Betong": []
 			},
 			{
-				"Saratok"
+				"Saratok": []
 			},
 			{
-				"Sarikei"
+				"Sarikei": []
 			},
 			{
-				"Meradong"
+				"Meradong": []
 			},
 			{
-				"Daro"
+				"Daro": []
 			},
 			{
-				"Julau"
+				"Julau": []
 			},
 			{
-				"Sibu"
+				"Sibu": []
 			},
 			{
-				"Dalat"
+				"Dalat": []
 			},
 			{
-				"Mukah"
+				"Mukah": []
 			},
 			{
-				"Kanowit"
+				"Kanowit": []
 			},
 			{
-				"Bintulu"
+				"Bintulu": []
 			},
 			{
-				"Tatau"
+				"Tatau": []
 			},
 			{
-				"Kapit"
+				"Kapit": []
 			},
 			{
-				"Song"
+				"Song": []
 			},
 			{
-				"Belaga"
+				"Belaga": []
 			},
 			{
-				"Miri"
+				"Miri": []
 			},
 			{
-				"Marudi"
+				"Marudi": []
 			},
 			{
-				"Limbang"
+				"Limbang": []
 			},
 			{
-				"Lawas"
+				"Lawas": []
 			},
 			{
-				"Matu"
+				"Matu": []
 			},
 			{
-				"Asajaya"
+				"Asajaya": []
 			},
 			{
-				"Pakan"
+				"Pakan": []
 			},
 			{
-				"Selangau"
+				"Selangau": []
 			},
 			{
-				"Tebedu"
+				"Tebedu": []
 			},
 			{
-				"Pusa"
+				"Pusa": []
 			},
 			{
-				"Kabong"
+				"Kabong": []
 			},
 			{
-				"Tanjung Manis"
+				"Tanjung Manis": []
 			},
 			{
-				"Sebauh"
+				"Sebauh": []
 			},
 			{
-				"Bukit Mabong"
+				"Bukit Mabong": []
 			},
 			{
-				"Subis"
+				"Subis": []
 			},
 			{
-				"Beluru"
+				"Beluru": []
 			},
 			{
-				"Telang Usan"
+				"Telang Usan": []
 			},
 		],
 		"WP Kuala Lumpur": [
@@ -1933,13 +1950,13 @@
 		],
 		"WP Labuan": [
 			{
-				"WP Labuan"
+				"WP Labuan": []
 			}
 		],
 		"WP Putrajaya": [
 			{
-				"WP Putrajaya"
+				"WP Putrajaya": []
 			}
 		],
-  }
+	}
 ]
