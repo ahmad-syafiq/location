@@ -84,7 +84,7 @@
 					"Bandar Jemaluang",
 					"Bandar Mersing",
 					"Bandar Mersing Kanan",
-					"Bandar Padang Endau",
+					"Bandar Padang Endau"
 				]
 			},
 			{
@@ -105,7 +105,7 @@
 					"Bandar Bukit Kepong",
 					"Bandar Panchor",
 					"Bandar Parit Jawa",
-					"Pekan Bukit Pasir",
+					"Pekan Bukit Pasir"
 				]
 			},
 			{
@@ -123,7 +123,7 @@
 					"Mukim Sungei Pinggan",
 					"Bandar Benut",
 					"Bandar Pontian Kechil",
-					"Pekan Pekan Nenas",
+					"Pekan Pekan Nenas"
 				]
 			},
 			{
@@ -145,7 +145,7 @@
 					"Bandar Jementah",
 					"Bandar Labis",
 					"Bandar Segamat",
-					"Pekan Gemas Bahru",
+					"Pekan Gemas Bahru"
 				]
 			},
 			{
@@ -194,7 +194,7 @@
 					"Pekan Kuala Pegang",
 					"Pekan Parit Panjang",
 					"Pekan Kampung Lalang",
-					"Pekan Malau",
+					"Pekan Malau"
 				]
 			},
 			{
@@ -211,7 +211,7 @@
 					"Pekan Lubuk Buntar",
 					"Pekan Selama",
 					"Pekan Sungai Kecil Illir",
-					"Pekan Relau",
+					"Pekan Relau"
 				]
 			},
 			{
@@ -244,7 +244,7 @@
 					"Bandar Simpang Empat",
 					"Pekan Alor Janggus",
 					"Pekan Kota Sarang Semut",
-					"Pekan Gunong",
+					"Pekan Gunong"
 				]
 			},
 			{
@@ -276,7 +276,7 @@
 					"Pekan Bukit Selambau",
 					"Pekan Jeniang",
 					"Pekan Kota Kuala Muda",
-					"Pekan Tanjung Dawai",
+					"Pekan Tanjung Dawai"
 				]
 			},
 			{
@@ -316,7 +316,7 @@
 					"Pekan Kerpan",
 					"Pekan Sintok",
 					"Pekan Napoh",
-					"Pekan Sungai Korok",
+					"Pekan Sungai Korok"
 				]
 			},
 			{
@@ -344,7 +344,7 @@
 					"Pekan Merbau Pulas",
 					"Pekan Sungai Karangan",
 					"Pekan Sungai Kob",
-					"Pekan Padang Meha",
+					"Pekan Padang Meha"
 				]
 			},
 			{
@@ -357,7 +357,7 @@
 					"Bandar Kuah",
 					"Bandar Padang Mat Sirat",
 					"Bandar Padang Lalang",
-					"Pekan Telok Datai",
+					"Pekan Telok Datai"
 				]
 			},
 			{
@@ -379,7 +379,7 @@
 					"Pekan Lubok Merbau",
 					"Pekan Bukit Tembaga",
 					"Pekan Padang Sanai",
-					"Pekan Kampung Tanjung",
+					"Pekan Kampung Tanjung"
 				]
 			},
 			{
@@ -389,7 +389,7 @@
 					"Mukim Sok",
 					"Bandar Sik",
 					"Pekan Gajah Puteh",
-					"Pekan Charok Padang",
+					"Pekan Charok Padang"
 				]
 			},
 			{
@@ -404,7 +404,7 @@
 					"Pekan Simpang Tiga Sungai Limau",
 					"Pekan Sungai Limau Dalam",
 					"Pekan Teroi",
-					"Pekan Singkir",
+					"Pekan Singkir"
 				]
 			},
 			{
@@ -430,7 +430,7 @@
 					"Mukim Tualang",
 					"Bandar Pokok Sena"
 				]
-			},
+			}
 		],
 		"Kelantan": [
 			{
@@ -442,7 +442,7 @@
 					"Melawi",
 					"Tawang",
 					"Telong",
-					"Tanjong Pauh",
+					"Tanjong Pauh"
 				]
 			},
 			{
@@ -471,7 +471,7 @@
 					"Pulai Chondong",
 					"Pangkal Meleret",
 					"Temangan",
-					"Ulu Sat",
+					"Ulu Sat"
 				]
 			},
 			{
@@ -525,7 +525,7 @@
 				"Kuala Krai": [
 					"Batu Mengkebang",
 					"Olak Jeram",
-					"Dabong",
+					"Dabong"
 				]
 			},
 			{
@@ -539,7 +539,7 @@
 				"Kecil Lojing": [
 					"Bertam"
 				]
-			},
+			}
 		],
 		"Melaka": [
 			{
@@ -581,7 +581,7 @@
 					"Pekan Durian Tunggal",
 					"Pekan Kuala Sungai Baru",
 					"Pekan Lobok China",
-					"Pekan Rembia",
+					"Pekan Rembia"
 				]
 			},
 			{
@@ -616,7 +616,7 @@
 					"Pekan Nyalas",
 					"Pekan Selandar",
 					"Pekan Sempang Bekoh",
-					"Pekan Sungei Rambai",
+					"Pekan Sungei Rambai"
 				]
 			},
 			{
@@ -660,9 +660,9 @@
 					"Pekan Paya Rumput",
 					"Pekan Sungei Udang",
 					"Pekan Tangga Batu",
-					"Pekan Tanjong Kling",
+					"Pekan Tanjong Kling"
 				]
-			},
+			}
 		],
 		"Negeri Sembilan": [
 			{
@@ -682,7 +682,7 @@
 					"Pekan Simpang Durian",
 					"Pekan Simpang Pertang",
 					"Pekan Petaling",
-					"Pekan Sungai Mutoh",
+					"Pekan Sungai Mutoh"
 				]
 			},
 			{
@@ -709,7 +709,7 @@
 					"Pekan Bukit Gelugor",
 					"Pekan Melang",
 					"Pekan Air Mawang",
-					"Pekan Dangi Baru",
+					"Pekan Dangi Baru"
 				]
 			},
 			{
@@ -734,7 +734,7 @@
 					"Pekan Bagan Pinang",
 					"Pekan Tanah Merah Utara",
 					"Pekan Tanah Merah Selatan",
-					"Pekan Jemima",
+					"Pekan Jemima"
 				]
 			},
 			{
@@ -766,7 +766,7 @@
 					"Pekan Chengkau",
 					"Pekan Seri Kota",
 					"Pekan Seri Kendong",
-					"Pekan Merbau Sembilan",
+					"Pekan Merbau Sembilan"
 				]
 			},
 			{
@@ -812,7 +812,7 @@
 					"Pekan Paroi Jaya",
 					"Pekan Rasah Jaya",
 					"Pekan Senawang",
-					"Pekan Seremban Jaya",
+					"Pekan Seremban Jaya"
 				]
 			},
 			{
@@ -834,7 +834,7 @@
 					"Pekan Air Kuning",
 					"Pekan Pasir Besar",
 					"Pekan Repah Permai",
-					"Pekan Repah Jaya",
+					"Pekan Repah Jaya"
 				]
 			},
 			{
@@ -853,9 +853,9 @@
 					"Pekan Rompin",
 					"Pekan Ladang Geddes",
 					"Pekan Mahsan",
-					"Pekan Serting Tengah",
+					"Pekan Serting Tengah"
 				]
-			},
+			}
 		],
 		"Pahang": [
 			{
@@ -865,7 +865,7 @@
 					"Mukim Pelangai",
 					"Bandar Bentong",
 					"Bandar Karak",
-					"Pekan Telemong",
+					"Pekan Telemong"
 				]
 			},
 			{
@@ -876,7 +876,7 @@
 					"Bandar Tanah Rata",
 					"Pekan Brinchang",
 					"Pekan Lubok Tamang",
-					"Pekan Ringlet",
+					"Pekan Ringlet"
 				]
 			},
 			{
@@ -893,7 +893,7 @@
 					"Mukim Tembeling",
 					"Bandar Jerantut",
 					"Pekan Kuala Tembeling",
-					"Pekan Jeransang",
+					"Pekan Jeransang"
 				]
 			},
 			{
@@ -919,7 +919,7 @@
 			},
 			{
 				"Bera": []
-			},
+			}
 		],
 		"Pulau Pinang": [
 			{
@@ -946,7 +946,7 @@
 					"Mukim 20",
 					"Mukim 21",
 					"Bandar Bukit Mertajam",
-					"Bandar Prai",
+					"Bandar Prai"
 				]
 			},
 			{
@@ -967,7 +967,7 @@
 					"Mukim 14",
 					"Mukim 16",
 					"Bandar Butterworth",
-					"Bandar Kepala Batas",
+					"Bandar Kepala Batas"
 				]
 			},
 			{
@@ -989,7 +989,7 @@
 					"Mukim 15",
 					"Mukim 16",
 					"Bandar Nibong Tebal",
-					"Bandar Sungai Bakap",
+					"Bandar Sungai Bakap"
 				]
 			},
 			{
@@ -1008,7 +1008,7 @@
 					"Bandar Jelutong",
 					"Bandar Tanjong Bungah",
 					"Bandar Tanjong Tokong",
-					"Bandar Tanjong Pinang",
+					"Bandar Tanjong Pinang"
 				]
 			},
 			{
@@ -1036,9 +1036,9 @@
 					"Mukim I",
 					"Mukim J",
 					"Bandar Balik Pulau",
-					"Bandar Bayan Lepas",
+					"Bandar Bayan Lepas"
 				]
-			},
+			}
 		],
 		"Perak": [
 			{
@@ -1057,7 +1057,7 @@
 					"Pekan Bikam",
 					"Pekan Sungai Lesong",
 					"Pekan Tapah Road",
-					"Pekan Temoh Station",
+					"Pekan Temoh Station"
 				]
 			},
 			{
@@ -1082,7 +1082,7 @@
 					"Pekan Pengkalan Baharu",
 					"Pekan Segari",
 					"Pekan Sitiawan",
-					"Pekan Sungai Pinang Kechil",
+					"Pekan Sungai Pinang Kechil"
 				]
 			},
 			{
@@ -1108,7 +1108,7 @@
 					"Bandar Tronoh",
 					"Pekan Kanthan",
 					"Pekan Simpang Pulai",
-					"Pekan Tanjong Tualang",
+					"Pekan Tanjong Tualang"
 				]
 			},
 			{
@@ -1129,7 +1129,7 @@
 					"Pekan Simpang Empat",
 					"Pekan Simpang Lima",
 					"Pekan Sungai Gedong",
-					"Pekan Tanjong Piandang",
+					"Pekan Tanjong Piandang"
 				]
 			},
 			{
@@ -1152,7 +1152,7 @@
 					"Pekan Lubok Merbau",
 					"Pekan Manong",
 					"Pekan Padang Rengas",
-					"Pekan Salak",
+					"Pekan Salak"
 				]
 			},
 			{
@@ -1176,7 +1176,7 @@
 					"Pekan Changkat Jering",
 					"Pekan Pondok Tanjong",
 					"Pekan Simpang",
-					"Pekan Terung",
+					"Pekan Terung"
 				]
 			},
 			{
@@ -1190,7 +1190,7 @@
 					"Pekan Batak Rabit",
 					"Pekan Chikus",
 					"Pekan Degong",
-					"Pekan Langkap",
+					"Pekan Langkap"
 				]
 			},
 			{
@@ -1209,7 +1209,7 @@
 					"Bandar Kelian Intan",
 					"Bandar Pengkalan Hulu",
 					"Bandar Lawin",
-					"Bandar Lenggong",
+					"Bandar Lenggong"
 				]
 			},
 			{
@@ -1231,7 +1231,7 @@
 					"Pekan Kampong Buloh Akar",
 					"Pekan Kota Setia",
 					"Pekan Parit",
-					"Pekan Tanjong Belanja",
+					"Pekan Tanjong Belanja"
 				]
 			},
 			{
@@ -1241,7 +1241,7 @@
 					"Bandar Gopeng",
 					"Bandar Kampar",
 					"Pekan Kota Baharu",
-					"Pekan Malim Nawar",
+					"Pekan Malim Nawar"
 				]
 			},
 			{
@@ -1253,7 +1253,7 @@
 					"Bandar Slim River",
 					"Bandar Proton",
 					"Pekan Slim",
-					"Pekan Terolak",
+					"Pekan Terolak"
 				]
 			},
 			{
@@ -1271,7 +1271,7 @@
 					"Pekan Selekoh",
 					"Pekan Simpang Empat",
 					"Pekan Simpang Tiga",
-					"Pekan Sungai Sumun",
+					"Pekan Sungai Sumun"
 				]
 			},
 			{
@@ -1281,9 +1281,9 @@
 					"Mukim Selama",
 					"Bandar Selama",
 					"Pekan Rantau Panjang",
-					"Pekan Sungai Bayur",
+					"Pekan Sungai Bayur"
 				]
-			},
+			}
 		],
 		"Perlis": [
 			{
@@ -1313,9 +1313,9 @@
 					"Bandar Kangar",
 					"Bandar Arau",
 					"Pekan Kaki Bukit",
-					"Pekan Kuala Perlis",
+					"Pekan Kuala Perlis"
 				]
-			},
+			}
 		],
 		"Selangor": [
 			{
@@ -1340,7 +1340,7 @@
 					"Pekan Mimaland",
 					"Pekan Pengkalan Kundang",
 					"Pekan Sungai Buloh",
-					"Pekan Templer",
+					"Pekan Templer"
 				]
 			},
 			{
@@ -1356,7 +1356,7 @@
 					"Pekan Meru",
 					"Pekan Telok Menegun",
 					"Pekan Batu Empat",
-					"Pekan Pandamaran",
+					"Pekan Pandamaran"
 				]
 			},
 			{
@@ -1389,7 +1389,7 @@
 					"Pekan Tanjong Duabelas",
 					"Pekan Telok Datok",
 					"Pekan Telok",
-					"Pekan Tongkah",
+					"Pekan Tongkah"
 				]
 			},
 			{
@@ -1423,7 +1423,7 @@
 					"Pekan Sungai Sembilang",
 					"Pekan Taman Pkns",
 					"Pekan Tambak Jawa",
-					"Pekan Bestari Jaya",
+					"Pekan Bestari Jaya"
 				]
 			},
 			{
@@ -1461,7 +1461,7 @@
 					"Pekan Puchong Jaya",
 					"Pekan Puchong Perdana",
 					"Pekan Subang",
-					"Pekan Subang Jaya",
+					"Pekan Subang Jaya"
 				]
 			},
 			{
@@ -1486,7 +1486,7 @@
 					"Pekan Sungai Besar",
 					"Pekan Sungai Haji Dorani",
 					"Pekan Sungai Nibong",
-					"Pekan Air Manis",
+					"Pekan Air Manis"
 				]
 			},
 			{
@@ -1509,7 +1509,7 @@
 					"Pekan Dato' Bakar Baginda",
 					"Pekan Baru Salak Tinggi",
 					"Pekan Sungai Merab",
-					"Pekan Tanjung Mas",
+					"Pekan Tanjung Mas"
 				]
 			},
 			{
@@ -1552,7 +1552,7 @@
 					"Pekan Sri Nanding",
 					"Pekan Sungai Kembong Beranang",
 					"Pekan Sungai Lui",
-					"Pekan Sungai Makau",
+					"Pekan Sungai Makau"
 				]
 			},
 			{
@@ -1583,9 +1583,9 @@
 					"Bandar Sungai Chik",
 					"Pekan Kerling",
 					"Pekan Peretak",
-					"Pekan Simpang Sungai Choh",
+					"Pekan Simpang Sungai Choh"
 				]
-			},
+			}
 		],
 		"Terengganu": [
 			{
@@ -1608,7 +1608,7 @@
 					"Mukim Tenang",
 					"Pekan Jertih",
 					"Pekan Kampung Raja",
-					"Pekan Kuala Besut",
+					"Pekan Kuala Besut"
 				]
 			},
 			{
@@ -1625,7 +1625,7 @@
 					"Mukim Rasau",
 					"Mukim Sura",
 					"Bandar Dungun",
-					"Pekan Kuala Paka",
+					"Pekan Kuala Paka"
 				]
 			},
 			{
@@ -1646,7 +1646,7 @@
 					"Pekan Air Jernih",
 					"Pekan Air Putih",
 					"Pekan Kemasik",
-					"Pekan Kijal",
+					"Pekan Kijal"
 				]
 			},
 			{
@@ -1665,7 +1665,7 @@
 					"Mukim Losong",
 					"Mukim Manir",
 					"Mukim Paluh",
-					"Pekan Air Putih",
+					"Pekan Air Putih"
 				]
 			},
 			{
@@ -1682,7 +1682,7 @@
 					"Mukim Mercang",
 					"Mukim Pulau Kerengga",
 					"Mukim Rusila",
-					"Mukim Alur Limbat",
+					"Mukim Alur Limbat"
 				]
 			},
 			{
@@ -1696,7 +1696,7 @@
 					"Mukim Penghulu Diman",
 					"Mukim Tanggul",
 					"Mukim Tersat",
-					"Pekan Kuala Berang",
+					"Pekan Kuala Berang"
 				]
 			},
 			{
@@ -1707,7 +1707,7 @@
 					"Mukim Hulu Setiu",
 					"Mukim Merang",
 					"Mukim Pantai",
-					"Mukim Tasik",
+					"Mukim Tasik"
 				]
 			},
 			{
@@ -1715,9 +1715,9 @@
 					"Mukim Batu Rakit",
 					"Mukim Kuala Nerus",
 					"Mukim Pakoh",
-					"Mukim Pulau Redang",
+					"Mukim Pulau Redang"
 				]
-			},
+			}
 		],
 		"Sabah": [
 			{
@@ -1800,7 +1800,7 @@
 			},
 			{
 				"Kalabakan": []
-			},
+			}
 		],
 		"Sarawak": [
 			{
@@ -1922,7 +1922,7 @@
 			},
 			{
 				"Telang Usan": []
-			},
+			}
 		],
 		"WP Kuala Lumpur": [
 			{
@@ -1944,7 +1944,7 @@
 					"Pekan Kuala Pauh",
 					"Pekan Petaling",
 					"Pekan Salak South",
-					"Pekan Sungai Penchala",
+					"Pekan Sungai Penchala"
 				]
 			}
 		],
@@ -1957,6 +1957,6 @@
 			{
 				"WP Putrajaya": []
 			}
-		],
+		]
 	}
 ]
