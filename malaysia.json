@@ -1,0 +1,1945 @@
+[
+  {
+    "Johor": [
+      {
+        "Batu Pahat": [
+          "Mukim Bagan",
+          "Mukim Chaah Bahru",
+          "Mukim Kampung Bahru",
+          "Mukim Linau",
+          "Mukim Lubok",
+          "Mukim Minyak Beku",
+          "Mukim Peserai",
+          "Mukim Sri Gading",
+          "Mukim Sri Medan",
+          "Mukim Simpang Kanan",
+          "Mukim Simpang Kiri",
+          "Mukim Sungai Kluang",
+          "Mukim Sungai Punggor",
+          "Mukim Tanjung Sembrong",
+          "Bandar Ayer Hitam",
+          "Bandar Bandar Penggaram",
+          "Bandar Rengit",
+          "Bandar Senggarang",
+          "Bandar Yong Peng"
+        ]
+      },
+      {
+        "Johor Bahru": [
+          "Mukim Jelutong",
+          "Mukim Plentong",
+          "Mukim Pulai",
+          "Mukim Sungai Tiram",
+          "Mukim Tanjung Kupang",
+          "Mukim Tebrau",
+          "Bandar Johor Bahru",
+          "Bandar Tebrau",
+
+        ]
+      },
+      {
+        "Kluang": [
+          "Mukim Ulu Benut",
+          "Mukim Kahang",
+          "Mukim Kluang",
+          "Mukim Layang-Layang",
+          "Mukim Machap",
+          "Mukim Niyor",
+          "Mukim Renggam",
+          "Bandar Kluang",
+          "Bandar Paloh",
+          "Bandar Rengam"
+        ]
+      },
+      {
+        "Kota Tinggi": [
+          "Mukim Ulu Sungai Johor",
+          "Mukim Ulu Sungei Sedili Besar",
+          "Mukim Johor Lama",
+          "Mukim Kambau",
+          "Mukim Kota Tinggi",
+          "Mukim Pantai Timur",
+          "Mukim Pengerang",
+          "Mukim Sedili Besar",
+          "Mukim Sedili Kechil",
+          "Mukim Tanjung Surat",
+          "Bandar Kota Tinggi"
+        ]
+      },
+      {
+        "Mersing": [
+          "Mukim Jemaluang",
+          "Mukim Lenggor",
+          "Mukim Mersing",
+          "Mukim Padang Endau",
+          "Mukim Penyabong",
+          "Mukim Pulau Aur",
+					"Mukim Pulau Babi",
+					"Mukim Pulau Pemanggil",
+					"Mukim Pulau Sibu",
+					"Mukim Pulau Tinggi",
+					"Mukim Sembrong",
+					"Mukim Tenggaroh",
+					"Mukim Tenglu",
+					"Mukim Triang",
+					"Bandar Jemaluang",
+					"Bandar Mersing",
+					"Bandar Mersing Kanan",
+					"Bandar Padang Endau",
+        ]
+      },
+      {
+        "Muar": [
+          "Mukim Ayer Hitam",
+          "Mukim Bandar",
+          "Mukim Bukit Kepong",
+          "Mukim Jalan Bakri",
+          "Mukim Jorak",
+          "Mukim Lenga",
+          "Mukim Parit Bakar",
+          "Mukim Parit Jawa",
+          "Mukim Sri Menanti",
+          "Mukim Sungai Balang",
+          "Mukim Sungai Raya",
+          "Mukim Sungai Terap",
+          "Bandar Bandar Maharani",
+          "Bandar Bukit Kepong",
+          "Bandar Panchor",
+          "Bandar Parit Jawa",
+          "Pekan Bukit Pasir",
+        ]
+      },
+      {
+        "Pontian": [
+          "Mukim Ayer Baloi",
+					"Mukim Air Masin",
+					"Mukim Api-Api",
+					"Mukim Benut",
+					"Mukim Jeram Batu",
+					"Mukim Pengkalan Raja",
+					"Mukim Pontian",
+					"Mukim Rimba Terjun",
+					"Mukim Serkat",
+					"Mukim Sungai Karang",
+					"Mukim Sungei Pinggan",
+					"Bandar Benut",
+					"Bandar Pontian Kechil",
+					"Pekan Pekan Nenas",
+        ]
+      },
+      {
+        "Segamat": [
+          "Mukim Bekok",
+					"Mukim Buloh Kasap",
+					"Mukim Chaah",
+					"Mukim Gemas",
+					"Mukim Gemereh",
+					"Mukim Jabi",
+					"Mukim Jementah",
+					"Mukim Labis",
+					"Mukim Pogoh",
+					"Mukim Sermin",
+					"Mukim Sungai Segamat",
+					"Bandar Batu Anam",
+					"Bandar Bekok",
+					"Bandar Buloh Kasap",
+					"Bandar Jementah",
+					"Bandar Labis",
+					"Bandar Segamat",
+					"Pekan Gemas Bahru",
+        ]
+      },
+      {
+        "Kulai": [
+          "Mukim Kulai",
+          "Mukim Senai",
+          "Mukim Sedenak",
+          "Mukim Bukit Batu",
+          "Bandar Kulai"
+        ]
+      },
+      {
+        "Tangkak": [
+          "Mukim Tangkak",
+          "Mukim Bukit Serampang",
+          "Mukim Grisek",
+          "Mukim Serom",
+          "Mukim Kundang",
+          "Mukim Kesang",
+          "Bandar Bukit Kangkar",
+          "Bandar Parit Bunga",
+          "Bandar Serom",
+          "Bandar Sungai Mati",
+          "Bandar Tangkak",
+          "Pekan Grisek"
+        ]
+      }
+    ],
+		"Kedah": [
+			{
+				"Baling": [
+					"Mukim Bakai",
+					"Mukim Baling",
+					"Mukim Bongor",
+					"Mukim Kupang",
+					"Mukim Pulai",
+					"Mukim Siong",
+					"Mukim Tawar",
+					"Mukim Teloi Kanan",
+					"Bandar Baling",
+					"Bandar Kuala Ketil",
+					"Bandar Kupang",
+					"Pekan Kampung Baru Kejai",
+					"Pekan Pulai",
+					"Pekan Tawar",
+					"Pekan Kuala Pegang",
+					"Pekan Parit Panjang",
+					"Pekan Kampung Lalang",
+					"Pekan Malau",
+				]
+			},
+			{
+				"Bandar Baharu": [
+					"Mukim Bagan Samak",
+					"Mukim Kuala Selama",
+					"Mukim Permatang Pasir",
+					"Mukim Relau",
+					"Mukim Serdang",
+					"Mukim Sungai Batu",
+					"Mukim Sungai Kechil",
+					"Bandar Bandar Baharu",
+					"Bandar Serdang",
+					"Pekan Lubuk Buntar",
+					"Pekan Selama",
+					"Pekan Sungai Kecil Illir",
+					"Pekan Relau",
+				]
+			},
+			{
+				"Kota Setar": [
+					"Mukim Alor Malai",
+					"Mukim Anak Bukit",
+					"Mukim Derga",
+					"Mukim Gunong",
+					"Mukim Kangkong",
+					"Mukim Kubang Rotan",
+					"Mukim Langgar",
+					"Mukim Lengkuas",
+					"Mukim Lepai",
+					"Mukim Limbong",
+					"Mukim Padang Hang",
+					"Mukim Padang Lalang",
+					"Mukim Pengkalan Kundor",
+					"Mukim Sala Kechik",
+					"Mukim Sungai Baharu",
+					"Mukim Tajar",
+					"Mukim Tebengau",
+					"Mukim Telaga Mas",
+					"Mukim Titi Gajah",
+					"Bandar Alor Setar",
+					"Bandar Anak Bukit",
+					"Bandar Kuala Kedah",
+					"Bandar Alor Merah",
+					"Bandar Bukit Pinang",
+					"Bandar Langgar",
+					"Bandar Simpang Empat",
+					"Pekan Alor Janggus",
+					"Pekan Kota Sarang Semut",
+					"Pekan Gunong",
+				]
+			},
+			{
+				"Kuala Muda": [
+					"Mukim Bujang",
+					"Mukim Bukit Meriam",
+					"Mukim Gurun",
+					"Mukim Haji Kudong",
+					"Mukim Kota",
+					"Mukim Kuala",
+					"Mukim Merbok",
+					"Mukim Pekula",
+					"Mukim Pinang Tunggal",
+					"Mukim Rantau Panjang",
+					"Mukim Semeling",
+					"Mukim Sidam Kiri",
+					"Mukim Simpor",
+					"Mukim Sungai Pasir",
+					"Mukim Sungai Petani",
+					"Mukim Teloi Kiri",
+					"Bandar Bedong",
+					"Bandar Gurun",
+					"Bandar Sungai Lalang",
+					"Bandar Sungai Petani",
+					"Bandar Tikam Batu",
+					"Bandar Merbok",
+					"Bandar Semeling",
+					"Bandar Aman Jaya",
+					"Pekan Bukit Selambau",
+					"Pekan Jeniang",
+					"Pekan Kota Kuala Muda",
+					"Pekan Tanjung Dawai",
+				]
+			},
+			{
+				"Kubang Pasu": [
+					"Mukim Ah",
+					"Mukim Binjal",
+					"Mukim Bukit Tinggi",
+					"Mukim Gelong",
+					"Mukim Husba",
+					"Mukim Jeram",
+					"Mukim Jerlun",
+					"Mukim Jitra",
+					"Mukim Kepelu",
+					"Mukim Kubang Pasu",
+					"Mukim Malau",
+					"Mukim Naga",
+					"Mukim Padang Perahu",
+					"Mukim Pelubang",
+					"Mukim Pering",
+					"Mukim Putat",
+					"Mukim Sanglang",
+					"Mukim Sungai Laka",
+					"Mukim Temin",
+					"Mukim Tunjang",
+					"Mukim Wang Tepus",
+					"Bandar Changlun",
+					"Bandar Jitra",
+					"Bandar Kodiang",
+					"Bandar Tunjang",
+					"Bandar Bandar Darulaman",
+					"Bandar Padang Sera",
+					"Bandar Kepala Batas",
+					"Bandar Bukit Kayu Hitam",
+					"Pekan Ayer Hitam",
+					"Pekan Kuala Sanglang",
+					"Pekan Sanglang",
+					"Pekan Kerpan",
+					"Pekan Sintok",
+					"Pekan Napoh",
+					"Pekan Sungai Korok",
+				]
+			},
+			{
+				"Kulim": [
+					"Mukim Bagan Sena",
+					"Mukim Junjong",
+					"Mukim Karangan",
+					"Mukim Kulim",
+					"Mukim Mahang",
+					"Mukim Naga Lilit",
+					"Mukim Padang China",
+					"Mukim Padang Meha",
+					"Mukim Sedim",
+					"Mukim Sidam Kanan",
+					"Mukim Sungai Seluang",
+					"Mukim Sungai Ular",
+					"Mukim Terap",
+					"Bandar Kulim",
+					"Bandar Lunas",
+					"Bandar Padang Serai",
+					"Pekan Junjong",
+					"Pekan Karangan",
+					"Pekan Labu Besar",
+					"Pekan Mahang",
+					"Pekan Merbau Pulas",
+					"Pekan Sungai Karangan",
+					"Pekan Sungai Kob",
+					"Pekan Padang Meha",
+				]
+			},
+			{
+				"Langkawi": [
+					"Mukim Ayer Hangat",
+					"Mukim Bohor",
+					"Mukim Kedawang",
+					"Mukim Padang Mat Sirat",
+					"Mukim Ulu Melaka",
+					"Bandar Kuah",
+					"Bandar Padang Mat Sirat",
+					"Bandar Padang Lalang",
+					"Pekan Telok Datai",
+				]
+			},
+			{
+				"Padang Terap": [
+					"Mukim Batang Tunggang Kanan",
+					"Mukim Batang Tunggang Kiri",
+					"Mukim Belimbing Kanan",
+					"Mukim Belimbing Kiri",
+					"Mukim Kurong Hitam",
+					"Mukim Padang Temak",
+					"Mukim Padang Terap Kanan",
+					"Mukim Padang Terap Kiri",
+					"Mukim Pedu",
+					"Mukim Tekai",
+					"Mukim Tolak",
+					"Bandar Kuala Nerang",
+					"Pekan Naka",
+					"Pekan Durian Burung",
+					"Pekan Lubok Merbau",
+					"Pekan Bukit Tembaga",
+					"Pekan Padang Sanai",
+					"Pekan Kampung Tanjung",
+				]
+			},
+			{
+				"Sik": [
+					"Mukim Jeneri",
+					"Mukim Sik",
+					"Mukim Sok",
+					"Bandar Sik",
+					"Pekan Gajah Puteh",
+					"Pekan Charok Padang",
+				]
+			},
+			{
+				"Yan": [
+					"Mukim Dulang",
+					"Mukim Sala Besar",
+					"Mukim Singkir",
+					"Mukim Sungai Daun",
+					"Mukim Yan",
+					"Bandar Guar Cempedak",
+					"Bandar Yan",
+					"Pekan Simpang Tiga Sungai Limau",
+					"Pekan Sungai Limau Dalam",
+					"Pekan Teroi",
+					"Pekan Singkir",
+				]
+			},
+			{
+				"Pendang"
+			},
+			{
+				"Pokok Sena"
+			},
+		],
+		"Kelantan": [
+			{
+				"Bachok": [
+					"Beklam",
+					"Gunong",
+					"Mahligai",
+					"Perupok",
+					"Melawi",
+					"Tawang",
+					"Telong",
+					"Tanjong Pauh",
+				]
+			},
+			{
+				"Kota Bharu": [
+					"Badang",
+					"Banggu",
+					"Beta",
+					"Kadok",
+					"Kemumin",
+					"Kota",
+					"Limbat",
+					"Kubang Kerian (Lundang)",
+					"Ketereh (Pangkal Kalong)",
+					"Panji",
+					"Pendek",
+					"Peringat",
+					"Salor",
+					"Sering",
+					"Kota Bharu"
+				]
+			},
+			{
+				"Machang": [
+					"Labok",
+					"Panyit",
+					"Pulai Chondong",
+					"Pangkal Meleret",
+					"Temangan",
+					"Ulu Sat",
+				]
+			},
+			{
+				"Pasir Mas": [
+					"Alor Pasir",
+					"Bunut Susu",
+					"Chetok",
+					"Gual Periok",
+					"Kangkong",
+					"Kuala Lemal",
+					"Kubang Gadong",
+					"Kubang Sepat",
+					"Pasir Mas",
+					"Rantau Panjang"
+				]
+			},
+			{
+				"Pasir Puteh": [
+					"Padang Pak Amat",
+					"Bukit Abal",
+					"Bukit Awang",
+					"Bukit Jawa",
+					"Gong Datok",
+					"Jeram",
+					"Limbongan",
+					"Semerak"
+				]
+			},
+			{
+				"Tanah Merah"
+			},
+			{
+				"Tumpat": [
+					"Jal Besar",
+					"Kebakat",
+					"Pengkalan Kubor",
+					"Sungai Pinang",
+					"Terbok",
+					"Tumpat",
+					"Wakaf Bharu"
+				]
+			},
+			{
+				"Gua Musang": [
+					"Galas",
+					"Bertam",
+					"Chiku"
+				]
+			},
+			{
+				"Kuala Krai": [
+					"Batu Mengkebang",
+					"Olak Jeram",
+					"Dabong",
+				]
+			},
+			{
+				"Jeli": [
+					"Bt. Melintang",
+					"Jeli",
+					"Kuala Balah"
+				]
+			},
+			{
+				"Kecil Lojing": [
+					"Bertam"
+				]
+			},
+		],
+		"Melaka": [
+			{
+				"Alor Gajah": [
+					"Mukim Ayer Pa'abas",
+					"Mukim Belimbing",
+					"Mukim Beringin",
+					"Mukim Brisu",
+					"Mukim Durian Tunggal",
+					"Mukim Gadek",
+					"Mukim Kelemak",
+					"Mukim Kemuning",
+					"Mukim Kuala Linggi",
+					"Mukim Kuala Sungei Baru",
+					"Mukim Lendu",
+					"Mukim Machap",
+					"Mukim Masjid Tanah",
+					"Mukim Malaka Pindah",
+					"Mukim Melekek",
+					"Mukim Padang Sebang",
+					"Mukim Parit Melana",
+					"Mukim Pegoh",
+					"Mukim Pulau Sebang",
+					"Mukim Ramuan China Besar",
+					"Mukim Ramuan China Kechil",
+					"Mukim Rembia",
+					"Mukim Sungei Baru Ilir",
+					"Mukim Sungei Baru Ulu",
+					"Mukim Sungei Baru Tengah",
+					"Mukim Sungei Buloh",
+					"Mukim Sungei Petai",
+					"Mukim Sungei Siput",
+					"Mukim Taboh Naning",
+					"Mukim Tanjong Rimau",
+					"Mukim Tebong",
+					"Bandar Alor Gajah",
+					"Bandar Masjid Tanah",
+					"Bandar Pulau Sebang",
+					"Pekan Durian Tunggal",
+					"Pekan Kuala Sungai Baru",
+					"Pekan Lobok China",
+					"Pekan Rembia",
+				]
+			},
+			{
+				"Jasin": [
+					"Mukim Ayer Panas",
+					"Mukim Batang Malaka",
+					"Mukim Bukit Senggeh",
+					"Mukim Chabau",
+					"Mukim Chin Chin",
+					"Mukim Chohong",
+					"Mukim Jasin",
+					"Mukim Jus",
+					"Mukim Kesang",
+					"Mukim Merlimau",
+					"Mukim Nyalas",
+					"Mukim Rim",
+					"Mukim Sebatu",
+					"Mukim Selandar",
+					"Mukim Sempang",
+					"Mukim Semujok",
+					"Mukim Serkam",
+					"Mukim Sungei Rambai",
+					"Mukim Tedong",
+					"Mukim Umbai",
+					"Bandar Jasin",
+					"Bandar Merlimau",
+					"Pekan Asahan",
+					"Pekan Batang Melaka",
+					"Pekan Bemban",
+					"Pekan Chinchin",
+					"Pekan Kesang Pajak",
+					"Pekan Nyalas",
+					"Pekan Selandar",
+					"Pekan Sempang Bekoh",
+					"Pekan Sungei Rambai",
+				]
+			},
+			{
+				"Melaka Tengah": [
+					"Mukim Alai",
+					"Mukim Ayer Molek",
+					"Mukim Bachang",
+					"Mukim Balai Panjang",
+					"Mukim Batu Berendam",
+					"Mukim Bertam",
+					"Mukim Bukit Baru",
+					"Mukim Bukit Katil",
+					"Mukim Bukit Lintang",
+					"Mukim Bukit Piatu",
+					"Mukim Bukit Rambai",
+					"Mukim Cheng",
+					"Mukim Duyong",
+					"Mukim Ujong Pasir",
+					"Mukim Kandang",
+					"Mukim Klebang Besar",
+					"Mukim Klebang Kechil",
+					"Mukim Krubong",
+					"Mukim Padang Semabok",
+					"Mukim Padang Temu",
+					"Mukim Paya Rumput",
+					"Mukim Pringgit",
+					"Mukim Pernu",
+					"Mukim Semabok",
+					"Mukim Sungei Udang",
+					"Mukim Tangga Batu",
+					"Mukim Tanjong Kling",
+					"Mukim Tanjong Minyak",
+					"Mukim Telok Mas",
+					"Bandar Bukit Baru",
+					"Bandar Melaka",
+					"Pekan Ayer Molek",
+					"Pekan Batu Berendam",
+					"Pekan Bukit Rambai",
+					"Pekan Kandang",
+					"Pekan Klebang",
+					"Pekan Paya Rumput",
+					"Pekan Sungei Udang",
+					"Pekan Tangga Batu",
+					"Pekan Tanjong Kling",
+				]
+			},
+		],
+		"Negeri Sembilan": [
+			{
+				"Jelebu": [
+					"Mukim Glami Lemi",
+					"Mukim Ulu Klawang",
+					"Mukim Ulu Triang",
+					"Mukim Kenaboi",
+					"Mukim Kuala Klawang",
+					"Mukim Peradong",
+					"Mukim Pertang",
+					"Mukim Triang Ilir",
+					"Bandar Kuala Klawang",
+					"Pekan Kuala Klawang",
+					"Pekan Pertang",
+					"Pekan Titi",
+					"Pekan Simpang Durian",
+					"Pekan Simpang Pertang",
+					"Pekan Petaling",
+					"Pekan Sungai Mutoh",
+				]
+			},
+			{
+				"Kuala Pilah": [
+					"Mukim Ampang Tinggi",
+					"Mukim Ulu Jempol",
+					"Mukim Ulu Muar",
+					"Mukim Johol",
+					"Mukim Juasseh",
+					"Mukim Kepis",
+					"Mukim Langkap",
+					"Mukim Parit Tinggi",
+					"Mukim Pilah",
+					"Mukim Sri Menanti",
+					"Mukim Terachi",
+					"Bandar Kuala Pilah",
+					"Pekan Dangi",
+					"Pekan Gunung Pasir",
+					"Pekan Johol",
+					"Pekan Parit Tinggi",
+					"Pekan Senaling",
+					"Pekan Tanjong Ipoh",
+					"Pekan Juasseh",
+					"Pekan Bukit Gelugor",
+					"Pekan Melang",
+					"Pekan Air Mawang",
+					"Pekan Dangi Baru",
+				]
+			},
+			{
+				"Port Dickson": [
+					"Mukim Jimah",
+					"Mukim Linggi",
+					"Mukim Pasir Panjang",
+					"Mukim Port Dickson",
+					"Mukim Si Rusa",
+					"Bandar Port Dickson",
+					"Bandar Telok Kemang",
+					"Pekan Lukut",
+					"Pekan Pasir Panjang",
+					"Pekan Pengkalan Kempas",
+					"Pekan Chuah",
+					"Pekan Port Dickson",
+					"Pekan Telok Kemang",
+					"Pekan Bukit Pelandok",
+					"Pekan Linggi",
+					"Pekan Air Kuning",
+					"Pekan Sungai Menyala",
+					"Pekan Bagan Pinang",
+					"Pekan Tanah Merah Utara",
+					"Pekan Tanah Merah Selatan",
+					"Pekan Jemima",
+				]
+			},
+			{
+				"Rembau": [
+					"Mukim Batu Hampar",
+					"Mukim Bongek",
+					"Mukim Chembong",
+					"Mukim Chengkau",
+					"Mukim Gadong",
+					"Mukim Kundor",
+					"Mukim Legong Ilir",
+					"Mukim Legong Ulu",
+					"Mukim Miku",
+					"Mukim Nerasau",
+					"Mukim Pedas",
+					"Mukim Pilin",
+					"Mukim Selemak",
+					"Mukim Semerbok",
+					"Mukim Spri",
+					"Mukim Tanjong Kling",
+					"Mukim Titian Bintangor",
+					"Bandar Rembau",
+					"Pekan Kampong Batu",
+					"Pekan Kota",
+					"Pekan Lubok China",
+					"Pekan Pedas",
+					"Pekan Chembong",
+					"Pekan Rembau",
+					"Pekan Chengkau",
+					"Pekan Seri Kota",
+					"Pekan Seri Kendong",
+					"Pekan Merbau Sembilan",
+				]
+			},
+			{
+				"Seremban": [
+					"Mukim Ampangan",
+					"Mukim Labu",
+					"Mukim Lenggeng",
+					"Mukim Pantai",
+					"Mukim Rantau",
+					"Mukim Rasah",
+					"Mukim Seremban",
+					"Mukim Setul",
+					"Bandar Seremban",
+					"Bandar Seremban 3",
+					"Bandar Seremban Utama",
+					"Bandar Mantin Utama",
+					"Bandar Baru Enstek",
+					"Bandar Baru Kota Sri Mas",
+					"Bandar Nilai Utama",
+					"Bandar Sri Sendayan",
+					"Pekan Broga",
+					"Pekan Ulu Beranang",
+					"Pekan Labu",
+					"Pekan Lenggeng",
+					"Pekan Mambau",
+					"Pekan Nilai",
+					"Pekan Mantin",
+					"Pekan Pajam",
+					"Pekan Rantau",
+					"Pekan Tiroi",
+					"Pekan Panchor",
+					"Pekan Taman Seremban",
+					"Pekan Rahang Baru",
+					"Pekan Paroi",
+					"Pekan Bukit Kepayang",
+					"Pekan Dusun Setia",
+					"Pekan Sungai Gadut",
+					"Pekan Bukti",
+					"Pekan Sikamat",
+					"Pekan Shah Bandar",
+					"Pekan Setul",
+					"Pekan Ulu Temiang",
+					"Pekan Paroi Jaya",
+					"Pekan Rasah Jaya",
+					"Pekan Senawang",
+					"Pekan Seremban Jaya",
+				]
+			},
+			{
+				"Tampin": [
+					"Mukim Ayer Kuning",
+					"Mukim Gemas",
+					"Mukim Gemencheh",
+					"Mukim Keru",
+					"Mukim Repah",
+					"Mukim Tampin Tengah",
+					"Mukim Tebong",
+					"Bandar Gemas",
+					"Bandar Tampin",
+					"Pekan Ayer Kuning Selatan",
+					"Pekan Batang Melaka",
+					"Pekan Gemencheh Bahru",
+					"Pekan Repah",
+					"Pekan Tampin Tengah",
+					"Pekan Air Kuning",
+					"Pekan Pasir Besar",
+					"Pekan Repah Permai",
+					"Pekan Repah Jaya",
+				]
+			},
+			{
+				"Jempol": [
+					"Mukim Jelei",
+					"Mukim Kuala Jempol",
+					"Mukim Rompin",
+					"Mukim Serting Ilir",
+					"Mukim Serting Ulu",
+					"Bandar Serting",
+					"Bandar Bahau",
+					"Bandar Sri Jempol",
+					"Pekan Bahau",
+					"Pekan Batu Kikir",
+					"Pekan Kuala Jelai",
+					"Pekan Rompin",
+					"Pekan Ladang Geddes",
+					"Pekan Mahsan",
+					"Pekan Serting Tengah",
+				]
+			},
+		],
+		"Pahang": [
+			{
+				"Bentong": [
+					"Mukim Bentong",
+					"Mukim Sabai",
+					"Mukim Pelangai",
+					"Bandar Bentong",
+					"Bandar Karak",
+					"Pekan Telemong",
+				]
+			},
+			{
+				"Cameron Highlands": [
+					"Mukim Hulu Telom",
+					"Mukim Ringlet",
+					"Mukim Tanah Rata",
+					"Bandar Tanah Rata",
+					"Pekan Brinchang",
+					"Pekan Lubok Tamang",
+					"Pekan Ringlet",
+				]
+			},
+			{
+				"Jerantut": [
+					"Mukim Burau",
+					"Mukim Hulu Cheka",
+					"Mukim Hulu Tembeling",
+					"Mukim Kelola",
+					"Mukim Kuala Tembeling",
+					"Mukim Pedah",
+					"Mukim Pulau Tawar",
+					"Mukim Tebing Tinggi",
+					"Mukim Teh",
+					"Mukim Tembeling",
+					"Bandar Jerantut",
+					"Pekan Kuala Tembeling",
+					"Pekan Jeransang",
+				]
+			},
+			{
+				"Kuantan"
+			},
+			{
+				"Lipis"
+			},
+			{
+				"Pekan"
+			},
+			{
+				"Raub"
+			},
+			{
+				"Temerloh"
+			},
+			{
+				"Rompin"
+			},
+			{
+				"Maran"
+			},
+			{
+				"Bera"
+			},
+		],
+		"Pulau Pinang": [
+			{
+				"Seberang Perai Tengah": [
+					"Mukim 1",
+					"Mukim 2",
+					"Mukim 3",
+					"Mukim 4",
+					"Mukim 5",
+					"Mukim 6",
+					"Mukim 7",
+					"Mukim 8",
+					"Mukim 9",
+					"Mukim 10",
+					"Mukim 11",
+					"Mukim 12",
+					"Mukim 13",
+					"Mukim 14",
+					"Mukim 15",
+					"Mukim 16",
+					"Mukim 17",
+					"Mukim 18",
+					"Mukim 19",
+					"Mukim 20",
+					"Mukim 21",
+					"Bandar Bukit Mertajam",
+					"Bandar Prai",
+				]
+			},
+			{
+				"Seberang Perai Utara": [
+					"Mukim 1",
+					"Mukim 2",
+					"Mukim 3",
+					"Mukim 4",
+					"Mukim 5",
+					"Mukim 6",
+					"Mukim 7",
+					"Mukim 8",
+					"Mukim 9",
+					"Mukim 10",
+					"Mukim 11",
+					"Mukim 12",
+					"Mukim 13",
+					"Mukim 14",
+					"Mukim 16",
+					"Bandar Butterworth",
+					"Bandar Kepala Batas",
+				]
+			},
+			{
+				"Seberang Perai Selatan": [
+					"Mukim 1",
+					"Mukim 2",
+					"Mukim 3",
+					"Mukim 4",
+					"Mukim 5",
+					"Mukim 6",
+					"Mukim 7",
+					"Mukim 8",
+					"Mukim 9",
+					"Mukim 10",
+					"Mukim 11",
+					"Mukim 12",
+					"Mukim 13",
+					"Mukim 14",
+					"Mukim 15",
+					"Mukim 16",
+					"Bandar Nibong Tebal",
+					"Bandar Sungai Bakap",
+				]
+			},
+			{
+				"Timur Laut": [
+					"Mukim 13",
+					"Mukim 14",
+					"Mukim 15",
+					"Mukim 16",
+					"Mukim 17",
+					"Mukim 18",
+					"Bandar Ayer Itam",
+					"Bandar Batu Ferringgi",
+					"Bandar Bukit Bendera",
+					"Bandar Glugor",
+					"Bandar George Town",
+					"Bandar Jelutong",
+					"Bandar Tanjong Bungah",
+					"Bandar Tanjong Tokong",
+					"Bandar Tanjong Pinang",
+				]
+			},
+			{
+				"Barat Daya": [
+					"Mukim 1",
+					"Mukim 2",
+					"Mukim 3",
+					"Mukim 4",
+					"Mukim 5",
+					"Mukim 6",
+					"Mukim 7",
+					"Mukim 8",
+					"Mukim 9",
+					"Mukim 10",
+					"Mukim 11",
+					"Mukim 12",
+					"Mukim A",
+					"Mukim B",
+					"Mukim C",
+					"Mukim D",
+					"Mukim E",
+					"Mukim F",
+					"Mukim G",
+					"Mukim H",
+					"Mukim I",
+					"Mukim J",
+					"Bandar Balik Pulau",
+					"Bandar Bayan Lepas",
+				]
+			},
+		],
+		"Perak": [
+			{
+				"Batang Padang": [
+					"Mukim Batang Padang",
+					"Mukim Bidor",
+					"Mukim Chenderiang",
+					"Mukim Sungkai",
+					"Bandar Bidor",
+					"Bandar Chenderiang",
+					"Bandar Sungkai",
+					"Bandar Tapah",
+					"Bandar Temoh",
+					"Pekan Ayer Kuning",
+					"Pekan Banir",
+					"Pekan Bikam",
+					"Pekan Sungai Lesong",
+					"Pekan Tapah Road",
+					"Pekan Temoh Station",
+				]
+			},
+			{
+				"Manjung": [
+					"Mukim Beruas",
+					"Mukim Lekir",
+					"Mukim Lumut",
+					"Mukim Pengkalan Baharu",
+					"Mukim Sitiawan",
+					"Bandar Lumut",
+					"Pekan Ayer Tawar",
+					"Pekan Beruas",
+					"Pekan Changkat Keruing",
+					"Pekan Damar Laut",
+					"Pekan Kampong Baharu",
+					"Pekan Kampong Koh",
+					"Pekan Kampong Sitiawan",
+					"Pekan Pangkor",
+					"Pekan Pantai Remis",
+					"Pekan Pasir Bogak",
+					"Pekan Pekan Gurney",
+					"Pekan Pengkalan Baharu",
+					"Pekan Segari",
+					"Pekan Sitiawan",
+					"Pekan Sungai Pinang Kechil",
+				]
+			},
+			{
+				"Kinta": [
+					"Mukim Tronoh",
+					"Mukim Hulu Kinta",
+					"Mukim Sungai Raya",
+					"Mukim Sungai Terap",
+					"Mukim Tanjong Tualang",
+					"Bandar Batu Gajah",
+					"Bandar Chemor",
+					"Bandar Ipoh (U)",
+					"Bandar Ipoh (S)",
+					"Bandar Jelapang",
+					"Bandar Lahat",
+					"Bandar Menglembu",
+					"Bandar Papan",
+					"Bandar Pusing",
+					"Bandar Seputeh",
+					"Bandar Sungai Raya",
+					"Bandar Tambun",
+					"Bandar Tanjong Rambutan",
+					"Bandar Tronoh",
+					"Pekan Kanthan",
+					"Pekan Simpang Pulai",
+					"Pekan Tanjong Tualang",
+				]
+			},
+			{
+				"Kerian": [
+					"Mukim Bagan Serai",
+					"Mukim Bagan Tiang",
+					"Mukim Beriah",
+					"Mukim Gunong Semanggol",
+					"Mukim Kuala Kurau",
+					"Mukim Parit Buntar",
+					"Mukim Selinsing",
+					"Mukim Tanjong Piandang",
+					"Bandar Bagan Serai",
+					"Bandar Kuala Kurau",
+					"Bandar Parit Buntar",
+					"Pekan Bukit Merah",
+					"Pekan Jalan Baru",
+					"Pekan Simpang Empat",
+					"Pekan Simpang Lima",
+					"Pekan Sungai Gedong",
+					"Pekan Tanjong Piandang",
+				]
+			},
+			{
+				"Kuala Kangsar": [
+					"Mukim Chegar Galah",
+					"Mukim Kampong Buaya",
+					"Mukim Kota Lama Kanan",
+					"Mukim Kota Lama Kiri",
+					"Mukim Lubok Merbau",
+					"Mukim Pulau Kamiri",
+					"Mukim Sayung",
+					"Mukim Senggang",
+					"Mukim Sungai Siput",
+					"Bandar Kuala Kangsar",
+					"Bandar Sungai Siput",
+					"Pekan Gunong Pondok",
+					"Pekan Jerlun",
+					"Pekan Karai",
+					"Pekan Kati",
+					"Pekan Lubok Merbau",
+					"Pekan Manong",
+					"Pekan Padang Rengas",
+					"Pekan Salak",
+				]
+			},
+			{
+				"Larut dan Matang": [
+					"Mukim Asam Kumbang",
+					"Mukim Batu Kurau",
+					"Mukim Bukit Gantang",
+					"Mukim Jebong",
+					"Mukim Kamunting",
+					"Mukim Pengkalan Aor",
+					"Mukim Simpang",
+					"Mukim Sungai Limau",
+					"Mukim Sungai Tinggi",
+					"Mukim Terung",
+					"Mukim Tupai",
+					"Bandar Kamunting",
+					"Bandar Kuala Sepetang",
+					"Bandar Matang",
+					"Bandar Taiping",
+					"Pekan Batu Kurau",
+					"Pekan Changkat Jering",
+					"Pekan Pondok Tanjong",
+					"Pekan Simpang",
+					"Pekan Terung",
+				]
+			},
+			{
+				"Hilir Perak": [
+					"Mukim Changkat Jong",
+					"Mukim Durian Sebatang",
+					"Mukim Labu Kubong",
+					"Mukim Sungai Durian",
+					"Mukim Sungai Manik",
+					"Bandar Teluk Intan",
+					"Pekan Batak Rabit",
+					"Pekan Chikus",
+					"Pekan Degong",
+					"Pekan Langkap",
+				]
+			},
+			{
+				"Hulu Perak": [
+					"Mukim Belukar Semang",
+					"Mukim Belum",
+					"Mukim Durian Pipit",
+					"Mukim Gerik",
+					"Mukim Kenering",
+					"Mukim Pengkalan Hulu",
+					"Mukim Kerunai",
+					"Mukim Lenggong",
+					"Mukim Temelong",
+					"Mukim Temengor",
+					"Bandar Gerik",
+					"Bandar Kelian Intan",
+					"Bandar Pengkalan Hulu",
+					"Bandar Lawin",
+					"Bandar Lenggong",
+				]
+			},
+			{
+				"Perak Tengah": [
+					"Mukim Bandar",
+					"Mukim Belanja",
+					"Mukim Bota",
+					"Mukim Jaya Baru",
+					"Mukim Kampong Gajah",
+					"Mukim Kota Setia",
+					"Mukim Lambor Kanan",
+					"Mukim Lambor Kiri",
+					"Mukim ayang Layang",
+					"Mukim Pasir Panjang Hulu",
+					"Mukim Pasir Salak",
+					"Mukim Pulau Tiga",
+					"Bandar Seri Iskandar",
+					"Pekan Bota Kanan",
+					"Pekan Kampong Buloh Akar",
+					"Pekan Kota Setia",
+					"Pekan Parit",
+					"Pekan Tanjong Belanja",
+				]
+			},
+			{
+				"Kampar": [
+					"Mukim Kampar",
+					"Mukim Teja",
+					"Bandar Gopeng",
+					"Bandar Kampar",
+					"Pekan Kota Baharu",
+					"Pekan Malim Nawar",
+				]
+			},
+			{
+				"Muallim": [
+					"Mukim Hulu Bernam Barat",
+					"Mukim Hulu Bernam Timor",
+					"Mukim Slim",
+					"Bandar Tanjong Malim",
+					"Bandar Slim River",
+					"Bandar Proton",
+					"Pekan Slim",
+					"Pekan Terolak",
+				]
+			},
+			{
+				"Bagan Datuk": [
+					"Mukim Bagan Datuk",
+					"Mukim Hutan Melintang",
+					"Mukim Rungkup",
+					"Mukim Teluk Baru",
+					"Mukim Sungai Sumun",
+					"Pekan Bagan Datuk",
+					"Pekan Batu Dua Puloh",
+					"Pekan Hutan Melintang",
+					"Pekan Jendarata",
+					"Pekan Kampong Sungai Haji Mohamed",
+					"Pekan Selekoh",
+					"Pekan Simpang Empat",
+					"Pekan Simpang Tiga",
+					"Pekan Sungai Sumun",
+				]
+			},
+			{
+				"Selama": [
+					"Mukim Hulu Ijok",
+					"Mukim Hulu Selama",
+					"Mukim Selama",
+					"Bandar Selama",
+					"Pekan Rantau Panjang",
+					"Pekan Sungai Bayur",
+				]
+			},
+		],
+		"Perlis": [
+			{
+				"Perlis": [
+					"Mukim Abi",
+					"Mukim Arau",
+					"Mukim Beseri",
+					"Mukim Chuping",
+					"Mukim Jejawi",
+					"Mukim Kayang",
+					"Mukim Kechor",
+					"Mukim Kuala Perlis",
+					"Mukim Kurong Anai",
+					"Mukim Kurong Batang",
+					"Mukim Ngulang",
+					"Mukim Oran",
+					"Mukim Padang Pauh",
+					"Mukim Padang Siding",
+					"Mukim Paya",
+					"Mukim Sanglang",
+					"Mukim Sena",
+					"Mukim Seriab",
+					"Mukim Sungai Adam",
+					"Mukim Titi Tinggi",
+					"Mukim Utan Aji",
+					"Mukim Wang Bintong",
+					"Bandar Kangar",
+					"Bandar Arau",
+					"Pekan Kaki Bukit",
+					"Pekan Kuala Perlis",
+				]
+			},
+		],
+		"Selangor": [
+			{
+				"Gombak": [
+					"Mukim Batu",
+					"Mukim Ulu Kelang",
+					"Mukim Rawang",
+					"Mukim Rawang",
+					"Mukim Setapak",
+					"Bandar Batu Arang",
+					"Bandar Kuang",
+					"Bandar Rawang",
+					"Bandar Gombak Setia",
+					"Bandar Ulu Kelang",
+					"Bandar Kepong",
+					"Bandar Kundang",
+					"Bandar Selayang",
+					"Bandar Sungai Buloh",
+					"Bandar Sungai Pusu",
+					"Pekan Batu 20",
+					"Pekan Kuang",
+					"Pekan Mimaland",
+					"Pekan Pengkalan Kundang",
+					"Pekan Sungai Buloh",
+					"Pekan Templer",
+				]
+			},
+			{
+				"Klang": [
+					"Mukim Kapar",
+					"Mukim Klang",
+					"Bandar Klang",
+					"Bandar Port Swettenham",
+					"Bandar Sultan Sulaiman",
+					"Bandar Shah Alam Klang",
+					"Pekan Bukit Kemuning",
+					"Pekan Kapar",
+					"Pekan Meru",
+					"Pekan Telok Menegun",
+					"Pekan Batu Empat",
+					"Pekan Pandamaran",
+				]
+			},
+			{
+				"Kuala Langat": [
+					"Mukim Bandar",
+					"Mukim Batu",
+					"Mukim Jugra",
+					"Mukim Kelanang",
+					"Mukim Morib",
+					"Mukim Tanjong Duabelas",
+					"Mukim Telok Panglima Garang",
+					"Bandar Banting",
+					"Bandar Jenjarom",
+					"Bandar Sijangkang",
+					"Bandar Tanjong Sepat",
+					"Bandar Telok Panglima Garang",
+					"Pekan Batu",
+					"Pekan Bukit Changgang",
+					"Pekan Chodoi",
+					"Pekan Jenjarom",
+					"Pekan Kanchong",
+					"Pekan Kanchong Darat",
+					"Pekan Kelanang Batu Enam",
+					"Pekan Morib",
+					"Pekan Permatang Pasir",
+					"Pekan Sijangkang",
+					"Pekan Simpang Morib",
+					"Pekan Sungai Manggis",
+					"Pekan Sungai Raba",
+					"Pekan Tanjong Duabelas",
+					"Pekan Telok Datok",
+					"Pekan Telok",
+					"Pekan Tongkah",
+				]
+			},
+			{
+				"Kuala Selangor": [
+					"Mukim Api-Api",
+					"Mukim Ujong Permatang",
+					"Mukim Ulu Tinggi",
+					"Mukim Ijok",
+					"Mukim Jeram",
+					"Mukim Kuala Selangor",
+					"Mukim Pasangan",
+					"Mukim Tanjong Karang",
+					"Mukim Bestari Jaya",
+					"Bandar Kuala Selangor",
+					"Bandar Tanjong Karang",
+					"Pekan Asam Jawa",
+					"Pekan Bukit Rotan",
+					"Pekan Jeram",
+					"Pekan Kampong Kuantan",
+					"Pekan Kuala Sungai Buloh",
+					"Pekan Kuala Sungai Buloh",
+					"Pekan Pasir Penambang",
+					"Pekan Simpang Tiga",
+					"Pekan Tanjong Karang",
+					"Pekan Bukit Belimbing",
+					"Pekan Bukit Talang",
+					"Pekan Kampong Baru Hulu",
+					"Tiram Buruk",
+					"Pekan Parit Mahang",
+					"Pekan Simpang Tiga Ijok",
+					"Pekan Sungai Sembilang",
+					"Pekan Taman Pkns",
+					"Pekan Tambak Jawa",
+					"Pekan Bestari Jaya",
+				]
+			},
+			{
+				"Petaling": [
+					"Mukim Bukit Raja",
+					"Mukim Damansara",
+					"Mukim Petaling",
+					"Mukim Sungai Buloh",
+					"Bandar Petaling Jaya",
+					"Bandar Shah Alam",
+					"Bandar Damansara",
+					"Bandar Glenmarie",
+					"Bandar Petaling Jaya Selatan",
+					"Bandar Saujana",
+					"Bandar Sri Damansara",
+					"Bandar Subang Jaya",
+					"Bandar Sunway",
+					"Pekan Batu Tiga",
+					"Pekan Merbau Sempak",
+					"Pekan Puchong",
+					"Pekan Serdang",
+					"Pekan Sungai Buloh",
+					"Pekan Sungai Penchala",
+					"Pekan Cempaka",
+					"Pekan Country Height",
+					"Pekan Desa Puchong",
+					"Pekan Hicom",
+					"Pekan Kayu Ara",
+					"Pekan Kinrara",
+					"Pekan Baru Hicom",
+					"Pekan Baru Subang",
+					"Pekan Baru Sungai Besi",
+					"Pekan Baru Sungai Buloh",
+					"Pekan Penaga",
+					"Pekan Puchong Jaya",
+					"Pekan Puchong Perdana",
+					"Pekan Subang",
+					"Pekan Subang Jaya",
+				]
+			},
+			{
+				"Sabak Bernam": [
+					"Mukim Bagan Nakhoda Omar",
+					"Mukim Panchang Bedena",
+					"Mukim Pasir Panjang",
+					"Mukim Sabak",
+					"Mukim Sungai Panjang",
+					"Pekan Bagan Terap Tambahan",
+					"Pekan Parit Enam",
+					"Pekan Parit Sembilan",
+					"Pekan Sekinchan Tambahan",
+					"Pekan Simpang Lima Tambahan",
+					"Pekan Sabak",
+					"Pekan Sungai Air Tawar Tambahan",
+					"Pekan Sungai Sepintas",
+					"Pekan Bagan Nakhoda Omar",
+					"Pekan Parit Baru",
+					"Pekan Pasir Panjang",
+					"Pekan Sekinchan Site A",
+					"Pekan Sungai Besar",
+					"Pekan Sungai Haji Dorani",
+					"Pekan Sungai Nibong",
+					"Pekan Air Manis",
+				]
+			},
+			{
+				"Sepang": [
+					"Mukim Dengkil",
+					"Mukim Labu",
+					"Mukim Sepang",
+					"Bandar Sepang",
+					"Bandar Baru Bangi",
+					"Bandar Baru Salak Tinggi",
+					"Bandar Lapangan Terbang",
+					"Antarabangsa Sepang",
+					"Bandar Sungai Merab",
+					"Bandar Cyberjaya",
+					"Pekan Dengkil",
+					"Pekan Salak",
+					"Pekan Sungai Pelek",
+					"Pekan Batu 1 Sepang",
+					"Pekan Bukit Bisa",
+					"Pekan Dato' Bakar Baginda",
+					"Pekan Baru Salak Tinggi",
+					"Pekan Sungai Merab",
+					"Pekan Tanjung Mas",
+				]
+			},
+			{
+				"Ulu Langat": [
+					"Mukim Beranang",
+					"Mukim Cheras",
+					"Mukim Ampang",
+					"Mukim Ulu Langat",
+					"Mukim Ulu Semenyih",
+					"Mukim Kajang",
+					"Mukim Semenyih",
+					"Bandar Cheras",
+					"Bandar Ulu Langat",
+					"Bandar Kajang",
+					"Bandar Semenyih",
+					"Bandar Ampang",
+					"Bandar Country Height",
+					"Bandar Balakong",
+					"Bandar Baru Bangi",
+					"Bandar Batu 9, Cheras",
+					"Bandar Batu 18, Semenyih",
+					"Bandar Batu 26, Beranang",
+					"Pekan Beranang",
+					"Pekan Kachau",
+					"Pekan Tarun",
+					"Pekan Bangi Lama",
+					"Pekan Batu 18 Ulu Langat",
+					"Pekan Batu 23, Sungai Lalang",
+					"Pekan Batu 26, Beranang",
+					"Pekan Bukit Sungai Raya",
+					"Pekan Cheras",
+					"Pekan Desa Raya",
+					"Pekan Dusun Tua Ulu Langat",
+					"Pekan Kajang",
+					"Pekan Kampong Pasir Batu 14 Semenyih",
+					"Pekan Kampong Sungai Tangkas",
+					"Pekan Rumah Murah Sungai Lui",
+					"Pekan Semenyih",
+					"Pekan Simpang Balak",
+					"Pekan Sri Nanding",
+					"Pekan Sungai Kembong Beranang",
+					"Pekan Sungai Lui",
+					"Pekan Sungai Makau",
+				]
+			},
+			{
+				"Ulu Selangor": [
+					"Mukim Batang Kali",
+					"Mukim Buloh Telor",
+					"Mukim Ampang Pechah",
+					"Mukim Ulu Bernam",
+					"Mukim Ulu Yam",
+					"Mukim Kalumpang",
+					"Mukim Kerling",
+					"Mukim Kuala Kalumpang",
+					"Mukim Peretak",
+					"Mukim Rasa",
+					"Mukim Serendah",
+					"Mukim Sungai Gumut",
+					"Mukim Sungai Tinggi",
+					"Bandar Ulu Yam",
+					"Bandar Ulu Yam Baharu",
+					"Bandar Kalumpang",
+					"Bandar Kuala Kubu Baharu",
+					"Bandar Rasa",
+					"Bandar Serendah",
+					"Bandar Batang Kali",
+					"Bandar Ulu Bernam I",
+					"Bandar Ulu Bernam II",
+					"Bandar Sungai Chik",
+					"Bandar Sungai Chik",
+					"Pekan Kerling",
+					"Pekan Peretak",
+					"Pekan Simpang Sungai Choh",
+				]
+			},
+		],
+		"Terengganu": [
+			{
+				"Besut": [
+					"Mukim Bukit Kenak",
+					"Mukim Bukit Peteri",
+					"Mukim Hulu Besut",
+					"Mukim Jabi",
+					"Mukim Kampung Raja",
+					"Mukim Keluang",
+					"Mukim Kerandang",
+					"Mukim Kuala Besut",
+					"Mukim Kubang Bemban",
+					"Mukim Lubuk Kawah",
+					"Mukim Pasir Akar",
+					"Mukim Pelagat",
+					"Mukim Pengkalan Nangka",
+					"Mukim Pulau Perhentian",
+					"Mukim Tembila",
+					"Mukim Tenang",
+					"Pekan Jertih",
+					"Pekan Kampung Raja",
+					"Pekan Kuala Besut",
+				]
+			},
+			{
+				"Dungun": [
+					"Mukim Kuala Abang",
+					"Mukim Besul",
+					"Mukim Hulu Paka",
+					"Mukim Jengai",
+					"Mukim Jerangau",
+					"Mukim Kuala Dungun",
+					"Mukim Kuala Paka",
+					"Mukim Kumpal",
+					"Mukim Pasir Raja",
+					"Mukim Rasau",
+					"Mukim Sura",
+					"Bandar Dungun",
+					"Pekan Kuala Paka",
+				]
+			},
+			{
+				"Kemaman": [
+					"Mukim Bandi",
+					"Mukim Banggul",
+					"Mukim Binjai",
+					"Mukim Cukai",
+					"Mukim Hulu Cukai",
+					"Mukim Hulu Jabur",
+					"Mukim Kemasik",
+					"Mukim Kertih",
+					"Mukim Kijal",
+					"Mukim Pasir Semut",
+					"Mukim Tebak",
+					"Mukim Teluk Kalung",
+					"Bandar Cukai",
+					"Pekan Air Jernih",
+					"Pekan Air Putih",
+					"Pekan Kemasik",
+					"Pekan Kijal",
+				]
+			},
+			{
+				"Kuala Terengganu": [
+					"Mukim Atas Tol",
+					"Mukim Batu Buruk",
+					"Mukim Belara",
+					"Mukim Bukit Besar",
+					"Mukim Cabang Tiga",
+					"Mukim Cenering",
+					"Mukim Gelugur Kedai",
+					"Mukim Gelugur Raja",
+					"Mukim Kepung",
+					"Mukim Kuala Ibai",
+					"Mukim Kubang Parit",
+					"Mukim Losong",
+					"Mukim Manir",
+					"Mukim Paluh",
+					"Pekan Air Putih",
+				]
+			},
+			{
+				"Marang": [
+					"Mukim Jerung",
+					"Mukim Mercang",
+					"Mukim Pulau Kerengga",
+					"Mukim Rusila",
+					"Mukim Alur Limbat",
+					"Mukim Bukit Payung",
+					"Pekan Marang",
+					"Pekan Bukit Payung",
+					"Mukim Jerung",
+					"Mukim Mercang",
+					"Mukim Pulau Kerengga",
+					"Mukim Rusila",
+					"Mukim Alur Limbat",
+				]
+			},
+			{
+				"Hulu Terengganu": [
+					"Mukim Hulu Berang",
+					"Mukim Hulu Telemung",
+					"Mukim Hulu Terengganu",
+					"Mukim Jenagur",
+					"Mukim Kuala Berang",
+					"Mukim Kuala Telemung",
+					"Mukim Penghulu Diman",
+					"Mukim Tanggul",
+					"Mukim Tersat",
+					"Pekan Kuala Berang",
+				]
+			},
+			{
+				"Setiu": [
+					"Mukim Caluk",
+					"Mukim Guntung",
+					"Mukim Hulu Nerus",
+					"Mukim Hulu Setiu",
+					"Mukim Merang",
+					"Mukim Pantai",
+					"Mukim Tasik",
+				]
+			},
+			{
+				"Kuala Nerus": [
+					"Mukim Batu Rakit",
+					"Mukim Kuala Nerus",
+					"Mukim Pakoh",
+					"Mukim Pulau Redang",
+				]
+			},
+		],
+		"Sabah": [
+			{
+				"Tawau"
+			},
+			{
+				"Lahad Datu"
+			},
+			{
+				"Semporna"
+			},
+			{
+				"Sandakan"
+			},
+			{
+				"Kinabatangan"
+			},
+			{
+				"Beluran"
+			},
+			{
+				"Kota Kinabalu"
+			},
+			{
+				"Ranau"
+			},
+			{
+				"Kota Belud"
+			},
+			{
+				"Tuaran"
+			},
+			{
+				"Penampang"
+			},
+			{
+				"Papar"
+			},
+			{
+				"Kudat"
+			},
+			{
+				"Kota Marudu"
+			},
+			{
+				"Pitas"
+			},
+			{
+				"Beaufort"
+			},
+			{
+				"Kuala Penyu"
+			},
+			{
+				"Sipitang"
+			},
+			{
+				"Tenom"
+			},
+			{
+				"Nabawan"
+			},
+			{
+				"Keningau"
+			},
+			{
+				"Tambunan"
+			},
+			{
+				"Kunak"
+			},
+			{
+				"Tongod"
+			},
+			{
+				"Putatan"
+			},
+			{
+				"Telupid"
+			},
+			{
+				"Kalabakan"
+			},
+		],
+		"Sarawak": [
+			{
+				"Kuching"
+			},
+			{
+				"Bau"
+			},
+			{
+				"Lundu"
+			},
+			{
+				"Samarahan"
+			},
+			{
+				"Serian"
+			},
+			{
+				"Simunjan"
+			},
+			{
+				"Sri Aman"
+			},
+			{
+				"Lubok Antu"
+			},
+			{
+				"Betong"
+			},
+			{
+				"Saratok"
+			},
+			{
+				"Sarikei"
+			},
+			{
+				"Meradong"
+			},
+			{
+				"Daro"
+			},
+			{
+				"Julau"
+			},
+			{
+				"Sibu"
+			},
+			{
+				"Dalat"
+			},
+			{
+				"Mukah"
+			},
+			{
+				"Kanowit"
+			},
+			{
+				"Bintulu"
+			},
+			{
+				"Tatau"
+			},
+			{
+				"Kapit"
+			},
+			{
+				"Song"
+			},
+			{
+				"Belaga"
+			},
+			{
+				"Miri"
+			},
+			{
+				"Marudi"
+			},
+			{
+				"Limbang"
+			},
+			{
+				"Lawas"
+			},
+			{
+				"Matu"
+			},
+			{
+				"Asajaya"
+			},
+			{
+				"Pakan"
+			},
+			{
+				"Selangau"
+			},
+			{
+				"Tebedu"
+			},
+			{
+				"Pusa"
+			},
+			{
+				"Kabong"
+			},
+			{
+				"Tanjung Manis"
+			},
+			{
+				"Sebauh"
+			},
+			{
+				"Bukit Mabong"
+			},
+			{
+				"Subis"
+			},
+			{
+				"Beluru"
+			},
+			{
+				"Telang Usan"
+			},
+		],
+		"WP Kuala Lumpur": [
+			{
+				"WP Kuala Lumpur": [
+					"Mukim Ampang",
+					"Mukim Batu",
+					"Mukim Cheras",
+					"Mukim Ulu Kelang",
+					"Mukim Kuala Lumpur",
+					"Mukim Petaling",
+					"Mukim Setapak",
+					"Bandar Kuala Lumpur",
+					"Bandar Petaling Jaya",
+					"Bandar Bandar Baharu",
+					"Sungai Besi",
+					"Pekan Batu",
+					"Pekan Batu Caves",
+					"Pekan Kepong",
+					"Pekan Kuala Pauh",
+					"Pekan Petaling",
+					"Pekan Salak South",
+					"Pekan Sungai Penchala",
+				]
+			}
+		],
+		"WP Labuan": [
+			{
+				"WP Labuan"
+			}
+		],
+		"WP Putrajaya": [
+			{
+				"WP Putrajaya"
+			}
+		],
+  }
+]
